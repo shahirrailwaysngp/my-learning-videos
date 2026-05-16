@@ -30,5 +30,3 @@ Works on both mobile and desktop devices
 ## NAGPUR TO GONDIA SECTION LR VIDEO
 
 [Click here to watch the project demo](https://drive.google.com/file/d/1C9Znww_bb4UR2yr8SOr_0aTl89eUmek3/view?usp=sharing)
-#### CIC LINE LOBBIES
-[01 BSP-CPH](https://drive.google.com/file/d/1C9Znww_bb4UR2yr8SOr_0aTl89eUmek3/view?usp=sharing)
